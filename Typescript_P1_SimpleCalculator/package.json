@@ -1,14 +1,15 @@
 {
-  "name": "new-folder",
+  "name": "cod3o4-hammad-simple-cli-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Calculator with Typescript, Node.js and Inquirer and chalk",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "HAMMAD SHEIKH",
   "license": "ISC",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
