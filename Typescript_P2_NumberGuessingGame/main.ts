@@ -1,3 +1,6 @@
+#! /usr/bin/env node
+
+
 import chalk from "chalk"; // Importing the chalk library for colored output in the console
 import inquirer from "inquirer"; // Importing the inquirer library for interactive command line prompts
 
