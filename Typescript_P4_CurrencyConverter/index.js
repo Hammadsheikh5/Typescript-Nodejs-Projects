@@ -39,4 +39,4 @@ let amount = userAnswer.amount;
 let baseresult = amount / fromcurrency;
 let total = baseresult * tocurrency;
 // Print result
-console.log(chalk.yellowBright.bold(`\n ${amount} ${userAnswer.from} is equal to ${total} ${userAnswer.to}`));
+console.log(chalk.yellowBright.bold(`\n ${amount} ${userAnswer.from} is equal to ${total.toFixed(2)} ${userAnswer.to}`));

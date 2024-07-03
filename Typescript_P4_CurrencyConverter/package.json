@@ -1,6 +1,6 @@
 {
   "name": "cod3o4-hammad-currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my currency convert project",
   "main": "index.js",
   "type": "module",
