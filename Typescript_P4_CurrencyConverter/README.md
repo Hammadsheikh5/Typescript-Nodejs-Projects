@@ -1,1 +1,1 @@
-hi
+This is CLI based Currency Converter Project
